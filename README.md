@@ -2,7 +2,9 @@
 ## App with userform that collects user input to Forestore database
 ### By Nikolina Vikberg, Grit Academy Malmö
 
-This project was made in Android Studio written in kotlin, useing Firestore database to collect data from a userform
+Project Assignment: Create an app that uses 2 acitvities, that has a log in system and a profile page where user can fill out information.
+
+This project was made in Android Studio written in kotlin, using Firestore database to collect data from a userform. It's a pretend 
 
 
 Log In
