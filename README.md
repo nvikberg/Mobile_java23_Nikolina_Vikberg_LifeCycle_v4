@@ -4,7 +4,7 @@
 
 Project Assignment: Create an app that uses 2 acitvities, that has a log in system and a profile page where user can fill out information.
 
-This project was made in Android Studio written in kotlin, using Firestore database to collect data from a userform. It's a pretend 
+This project was made in Android Studio written in kotlin, using Firestore database to collect data from a userform.
 
 
 Log In
