@@ -1,4 +1,9 @@
-This project was made in Android Studio written in kotlin and I also used Firestore database to collect data from userform
+# Android App with Firestore database
+## App with userform that collects user input to Forestore database
+### By Nikolina Vikberg, Grit Academy Malmö
+
+This project was made in Android Studio written in kotlin, useing Firestore database to collect data from a userform
+
 
 Log In
 ![loginpage](https://github.com/user-attachments/assets/97983dec-7340-4b4c-a306-2aeb735bcb08)
